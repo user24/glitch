@@ -1,0 +1,17 @@
+body {
+  background: #000;
+  padding-top: 100px;
+}
+.glitched {
+  display: block;
+  width: fit-content;
+  height: fit-content;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+}
+
+.glitch {
+  position: absolute;
+  height: 20px;
+}
