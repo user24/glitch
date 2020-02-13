@@ -2,6 +2,10 @@ Glitcher.
 
 So I read about backdrop-filter and thought I could make a cool 'glitching image' effect with it. This is it. Drop me a PR if you have ideas for cool glitches, there's plenty more we could add :)
 
+Live demo here: https://user24.github.io/glitch
+
+Browser support: https://caniuse.com/#feat=css-backdrop-filter
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
