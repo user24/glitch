@@ -1,4 +1,4 @@
-Glitcher.
+# Glitcher
 
 So I read about backdrop-filter and thought I could make a cool 'glitching image' effect with it. This is it. Drop me a PR if you have ideas for cool glitches, there's plenty more we could add :)
 
