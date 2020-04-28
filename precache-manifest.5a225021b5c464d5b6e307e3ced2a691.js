@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cea5eb4f94511363d7a881b588d5964",
+    "revision": "a06aa3ba7b174ee5f5647e82328919e8",
     "url": "/glitch/index.html"
   },
   {
-    "revision": "4960a9ce54d742d64160",
-    "url": "/glitch/static/css/main.e3ce4fa0.chunk.css"
+    "revision": "0baeceeed3f19d98bfd2",
+    "url": "/glitch/static/css/main.95b68d68.chunk.css"
   },
   {
     "revision": "d4a03c767e436bcabbf2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glitch/static/js/2.305f0bc7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4960a9ce54d742d64160",
-    "url": "/glitch/static/js/main.78db0d70.chunk.js"
+    "revision": "0baeceeed3f19d98bfd2",
+    "url": "/glitch/static/js/main.b25ec647.chunk.js"
   },
   {
     "revision": "8af4ae9ad4dd8820f7f7",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/glitch/static/css/main.e3ce4fa0.chunk.css",
-    "main.js": "/glitch/static/js/main.78db0d70.chunk.js",
-    "main.js.map": "/glitch/static/js/main.78db0d70.chunk.js.map",
+    "main.css": "/glitch/static/css/main.95b68d68.chunk.css",
+    "main.js": "/glitch/static/js/main.b25ec647.chunk.js",
+    "main.js.map": "/glitch/static/js/main.b25ec647.chunk.js.map",
     "runtime-main.js": "/glitch/static/js/runtime-main.f0743730.js",
     "runtime-main.js.map": "/glitch/static/js/runtime-main.f0743730.js.map",
     "static/js/2.305f0bc7.chunk.js": "/glitch/static/js/2.305f0bc7.chunk.js",
     "static/js/2.305f0bc7.chunk.js.map": "/glitch/static/js/2.305f0bc7.chunk.js.map",
     "index.html": "/glitch/index.html",
-    "precache-manifest.b45e80c1482214cddd161b74bafd32f2.js": "/glitch/precache-manifest.b45e80c1482214cddd161b74bafd32f2.js",
+    "precache-manifest.5a225021b5c464d5b6e307e3ced2a691.js": "/glitch/precache-manifest.5a225021b5c464d5b6e307e3ced2a691.js",
     "service-worker.js": "/glitch/service-worker.js",
-    "static/css/main.e3ce4fa0.chunk.css.map": "/glitch/static/css/main.e3ce4fa0.chunk.css.map",
+    "static/css/main.95b68d68.chunk.css.map": "/glitch/static/css/main.95b68d68.chunk.css.map",
     "static/js/2.305f0bc7.chunk.js.LICENSE.txt": "/glitch/static/js/2.305f0bc7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f0743730.js",
     "static/js/2.305f0bc7.chunk.js",
-    "static/css/main.e3ce4fa0.chunk.css",
-    "static/js/main.78db0d70.chunk.js"
+    "static/css/main.95b68d68.chunk.css",
+    "static/js/main.b25ec647.chunk.js"
   ]
 }
